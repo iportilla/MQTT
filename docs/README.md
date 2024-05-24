@@ -97,7 +97,13 @@ Enjoy this topic!
 	The `publisher` script will post a `topic` on the `MQTT broker` with the date and time every 5 seconds
 	
 
-8. Great! Let's now run the `MQTT client`. Run the following command:
+8. Great! Let's now run the `MQTT client`. Open a second shell window, login back to the `ubuntu` VM, change directory to your MQTT subdirectory 
+
+```script
+	ssh ubuntu@XX.XXX.XXX.XXX
+	cd <YOUR_NAME>/MQTT/
+ ```
+and run the following command:
 
  `python code/mqtt_time_subscriber.py`
 
