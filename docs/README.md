@@ -7,3 +7,5 @@ Publish/Subscribe is event-driven and enables messages to be pushed to clients. 
 
 
 [Architecture](./MQTT-Architecture.png)
+
+![arc](MQTT-Architecture.png)
