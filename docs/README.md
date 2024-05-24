@@ -86,7 +86,7 @@ Enjoy this topic!
 7. Next, we are going to run a `MQTT` publisher on our system and get to know the `MQTT Subscriber` client. To get started, let's run the following in our terminal:.
 
 	```
-	python ..\code\mqtt_time_publisher.py
+	python code/mqtt_time_publisher.py
 	```
 	You will see:
 	
@@ -99,7 +99,7 @@ Enjoy this topic!
 
 8. Great! Let's now run the `MQTT client`. Run the following command:
 
- `python ..\code\mqtt_time_subscriber.py`
+ `python code/mqtt_time_subscriber.py`
 
 9. You will see:
 
